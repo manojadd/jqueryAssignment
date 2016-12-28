@@ -1,0 +1,19 @@
+#page_heading,h3{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-family: 'Space Mono', monospace;
+    border-bottom: 3px solid red;
+    box-shadow: 0px 3px teal;
+}
+.labels
+{
+
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+
+}
+#consider_year_input
+{
+	margin-top: 15px;
+}

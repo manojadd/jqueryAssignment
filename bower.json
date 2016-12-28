@@ -1,0 +1,17 @@
+{
+  "name": "FourthAssignment",
+  "homepage": "https://github.com/manojadd/stackroute",
+  "authors": [
+    "Manoj <human.hb@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
